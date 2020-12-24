@@ -1,8 +1,8 @@
-### Hi, nice to meet you!!  :blob-wave:
+# Hi, nice to meet you!!  :blob-wave:
 
 ## Welcome to my page!
 
-# I'm Gabriel Pires, I'm studying programming language, my goal is to become a full-stack programmer
+### I'm Gabriel Pires, I'm studying programming language, my goal is to become a full-stack programmer
 <!--
 **DevGabrielPires/DevGabrielPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
