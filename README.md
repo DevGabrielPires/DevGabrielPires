@@ -1,4 +1,4 @@
-# Hi, nice to meet you!!  :blob-wave:
+# Hi, nice to meet you!!  <img alt="imagem de boas-vindas" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> 
 
 ## Welcome to my page!
 
