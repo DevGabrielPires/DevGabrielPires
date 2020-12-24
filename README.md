@@ -1,7 +1,6 @@
 # Hi, nice to meet you!!  <img alt="imagem de boas-vindas" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> 
 
-## Welcome to my page!
-
+## Welcome to my page! <img alt="imagem de boas-vindas" src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" width="30"/> 
 ### I'm Gabriel Pires, I'm studying programming language, my goal is to become a full-stack programmer
 <!--
 **DevGabrielPires/DevGabrielPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
