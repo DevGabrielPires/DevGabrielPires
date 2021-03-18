@@ -14,6 +14,9 @@
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
 
+<a href="https://www.instagram.com/devgabrielpires/">
+  <code><img alt="My insta" width="32" src="https://www.flaticon.com/free-icon/instagram_1384063?related_id=1384031&origin=search" /></code>
+</a>
 <br/><br/>
 
 ## My Development Stack
