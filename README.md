@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://www.instagram.com/devgabrielpires/">
-  <code><img alt="My insta" width="32" src="https://www.flaticon.com/free-icon/instagram_1384063?related_id=1384031&origin=search" /></code>
+  <code><img alt="My insta" width="32" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1616069611~hmac=b4ac1c46811210918a8ddcc51898b1fe" /></code>
 </a>
 <br/><br/>
 
