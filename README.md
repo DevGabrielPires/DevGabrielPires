@@ -33,7 +33,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 
 <div>
-  <a href="https://github.com/DevGabrielPires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGabrielPires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielPires&layout=compact&langs_count=16&theme=dracula"/>
 </div>
