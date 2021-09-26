@@ -7,11 +7,11 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/gabriel-r-pires/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D0BAQGZKGGJ75S72g%2Fcompany-logo_200_200%2F0%2F1629754938156%3Fe%3D2159024400%26v%3Dbeta%26t%3DIBmR7Q39iR_z3FiY6IcQlprM2MrTQxERxe2S1B1GY_M&imgrefurl=https%3A%2F%2Fbr.linkedin.com%2Fcompany%2Flinkedin&tbnid=ynx29eaL6JCzkM&vet=12ahUKEwin_eXe0ZzzAhVXs5UCHWUsBZkQMygAegUIARDJAQ..i&docid=0Z61xVBt3qzrmM&w=200&h=200&q=linkedin&ved=2ahUKEwin_eXe0ZzzAhVXs5UCHWUsBZkQMygAegUIARDJAQhttps://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D0BAQGZKGGJ75S72g%2Fcompany-logo_200_200%2F0%2F1629754938156%3Fe%3D2159024400%26v%3Dbeta%26t%3DIBmR7Q39iR_z3FiY6IcQlprM2MrTQxERxe2S1B1GY_M&imgrefurl=https%3A%2F%2Fbr.linkedin.com%2Fcompany%2Flinkedin&tbnid=ynx29eaL6JCzkM&vet=12ahUKEwin_eXe0ZzzAhVXs5UCHWUsBZkQMygAegUIARDJAQ..i&docid=0Z61xVBt3qzrmM&w=200&h=200&q=linkedin&ved=2ahUKEwin_eXe0ZzzAhVXs5UCHWUsBZkQMygAegUIARDJAQ" /></code>
 </a>
 
 <a href="mailto:gabriel.r.pires@tlook.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="32" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" /></code>
 </a>
 
 <a href="https://www.instagram.com/devgabrielpires/">
