@@ -7,7 +7,7 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/gabriel-r-pires/">
-  <code><img alt"logo do linkedin" width="32" src="https://vetores.org/d/linkedin.svg"/></code>
+  <code><img alt"logo do linkedin" width="32" src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png"/></code>
 </a>
 
 <a href="mailto:gabriel.r.pires@tlook.com">
